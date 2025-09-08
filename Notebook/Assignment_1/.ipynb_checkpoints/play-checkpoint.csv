@@ -1,0 +1,5 @@
+ACE	TEN	FIRST_MOVE	PLAY
+false	false	false	stand
+true	false	true	hit
+true	true	false	hit
+true	true	true	stand
